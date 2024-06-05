@@ -5,7 +5,7 @@
 3. Install git from : https://www.git-scm.com/downloads
 4. clone repository using cmd : git clone https://github.com/FernandaDiaz1051/python
 5. run: python main.py
-6. or run: python3 main.py
+6. or run: python3 main.pyw
 
 
 
