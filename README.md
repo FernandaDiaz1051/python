@@ -1,3 +1,9 @@
+THIS REPOSITORY PROVIDE AUTOMATIC INSTALLATION OF MINIMALISTIC PYTHON LIBRARIES
+
+THIS OPTION IS FASTER THEN NORMAL INSTALLATION AND PROVIDE FLEXIBILITY
+
+IT IS MADE FOR STUDENTS OF SOFTWARE ENGINEERING BY FERNANDA DIAZ
+
 1. Install python from : https://www.python.org/downloads/
 2. During installation do not forget to add python to environment variables and install pip:
    ![obrázok](https://github.com/FernandaDiaz1051/python/assets/171819904/3ead41bc-6b36-494a-ae12-3b94a17f20eb)
